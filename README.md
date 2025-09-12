@@ -81,23 +81,30 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-    <!-- Facebook -->
-    [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ahmed.elsayed.6179)
-    &nbsp;&nbsp;
-    <!-- LinkedIn -->
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-elsayed-2085a7322)
-    &nbsp;&nbsp;
-    <!-- WhatsApp -->
-    [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201091423819)
-    &nbsp;&nbsp;
-    <!-- Instagram -->
-    [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ahmedelsayed25/)
-    &nbsp;&nbsp;
-    <!-- TikTok -->
-    [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@ahmed_el_sayed)
-    &nbsp;&nbsp;
-    <!-- Gmail -->
-    [![Gmail](https://img.shields.io/badge/Gmail-FF4C4C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedelsayed6179@gmail.com)
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/ahmedelsayed38" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/1877F2/facebook.png" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/ahmed-elsayed-2085a7322?utm_source=share&utm_campaign=share_via&utm_content=profile" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/6C63FF/linkedin.png" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/ahmedelsayed25" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/E4405F/instagram-new.png" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <!-- TikTok -->
+  <a href="https://www.tiktok.com/@ahmed_el_sayed" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/tiktok--v1.png" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <!-- Gmail -->
+  <a href="mailto:febrianriski222@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/FF4C4C/gmail.png" width="40"/>
+  </a>
 </p>
 
 ---
