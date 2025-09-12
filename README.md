@@ -5,25 +5,28 @@
 </p>
 
 ---
+
 ## 👨‍💻 About Me
-
-<table width="100%">
+<table>
 <tr>
-<td valign="top">
+<td width="60%" valign="top">
 
-- 💻 Front-End Developer passionate about **Web Development**  
-- 🌱 Focused on **HTML, CSS, JavaScript, PHP & MySQL**  
-- ⚡ Enjoy building **responsive and dynamic websites**  
+- 🎓 Enthusiast in **Informatics & Web Development**
+- 💻 Front-End Developer passionate about **Web Development**
+- 🌱 Currently focusing on **HTML, CSS, JavaScript, PHP, MySQL**
+- ⚡ Enjoy building **responsive and dynamic websites** from scratch
 - 🎯 Goal: Become a **Full-Stack Developer**
+ 
 
 </td>
-<td align="center">
+<td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coding gif"/>
 
 </td>
 </tr>
 </table>
+
 ---
 
 ## 📊 GitHub Stats
