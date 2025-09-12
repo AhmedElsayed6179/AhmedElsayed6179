@@ -8,7 +8,7 @@
 ## 👨‍💻 About Me
 <table>
 <tr>
-<td width="70%" valign="top">
+<td width="60%" valign="top">
 
 - 💻 Front-End Developer passionate about **Web Development**
 - 🌱 Focused on **HTML, CSS, JavaScript, PHP & MySQL**
@@ -16,7 +16,7 @@
 - 🎯 Goal: Become a **Full-Stack Developer**
 
 </td>
-<td width="30%" align="center">
+<td width="40%" align="center">
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coding gif"/>
 
