@@ -6,19 +6,20 @@
 
 ---
 ## 👨‍💻 About Me
-<table>
-<tr>
-<td width="70%" valign="right">
 
-- 💻 Front-End Developer passionate about **Web Development**
-- 🌱 Focused on **HTML, CSS, JavaScript, PHP & MySQL**
-- ⚡ Enjoy building **responsive and dynamic websites**
+<table width="100%">
+<tr>
+<td valign="top">
+
+- 💻 Front-End Developer passionate about **Web Development**  
+- 🌱 Focused on **HTML, CSS, JavaScript, PHP & MySQL**  
+- ⚡ Enjoy building **responsive and dynamic websites**  
 - 🎯 Goal: Become a **Full-Stack Developer**
 
 </td>
-<td width="30%" align="left">
+<td align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coding gif"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
 
 </td>
 </tr>
