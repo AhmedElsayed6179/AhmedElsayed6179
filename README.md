@@ -11,12 +11,10 @@
     <tr>
         <td width="60%" valign="top">
 
-            - 🎓 Enthusiast in **Informatics & Web Development**
             - 💻 Front-End Developer passionate about **Web Development**
-            - 🌱 Currently focusing on **HTML, CSS, JavaScript, PHP, MySQL**
-            - ⚡ Enjoy building **responsive and dynamic websites** from scratch
+            - 🌱 Focused on **HTML, CSS, JavaScript, PHP & MySQL**
+            - ⚡ Enjoy building **responsive and dynamic websites**
             - 🎯 Goal: Become a **Full-Stack Developer**
-
 
         </td>
         <td width="40%" align="center">
@@ -54,12 +52,12 @@
 </p>
 
 ---
+
 ## 🎨 Other Skills
 <p align="center">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img
-        src="https://img.shields.io/badge/Technical%20Writing-007ACC?style=for-the-badge&logo=markdown&logoColor=white" />
+    <img src="https://img.shields.io/badge/Technical%20Writing-007ACC?style=for-the-badge&logo=markdown&logoColor=white" />
 </p>
 
 ---
@@ -69,43 +67,36 @@
     <img src="https://img.shields.io/badge/Teamwork-4CAF50?style=for-the-badge&logo=people&logoColor=white" />
     <img src="https://img.shields.io/badge/Communication-2196F3?style=for-the-badge&logo=wechat&logoColor=white" />
     <img src="https://img.shields.io/badge/Learning-4CAF50?style=for-the-badge&logo=bookstack&logoColor=white" />
-    <img
-        src="https://img.shields.io/badge/Problem%20Solving-9C27B0?style=for-the-badge&logo=thinkpad&logoColor=white" />
+    <img src="https://img.shields.io/badge/Problem%20Solving-9C27B0?style=for-the-badge&logo=thinkpad&logoColor=white" />
     <img src="https://img.shields.io/badge/Critical%20Thinking-00BCD4?style=for-the-badge&logo=idea&logoColor=white" />
     <img src="https://img.shields.io/badge/Creativity-E91E63?style=for-the-badge&logo=bulma&logoColor=white" />
 </p>
 
+---
 
 ## 📌 Featured Projects
-- 🔹 [Azkar Web App](https://ahmedelsayed6179.github.io/Azkar) – **Azkar (Islamic Remembrance) Web App** built with
-**Java**
-- 🔹 [Store App](https://ahmedelsayed6179.github.io/Store-App) – **Web-based Store Application** built using **HTML, CSS
-& JavaScript**
-- 🔹 [LinguaHub](https://ahmedelsayed6179.github.io/LinguaHub) – **English Learning Website** built with **HTML, CSS,
-and JavaScript (mostly CSS)**
+- 🔹 [Azkar Web App](https://ahmedelsayed6179.github.io/Azkar) – **Web App for Islamic Azkar** built with **Java**
+- 🔹 [Store App](https://ahmedelsayed6179.github.io/Store-App) – **Web-based Store Application** built using **HTML, CSS & JavaScript**
+- 🔹 [LinguaHub](https://ahmedelsayed6179.github.io/LinguaHub) – **English Learning Website** built with **HTML, CSS & JavaScript (mostly CSS)**
 
 ---
 
 ## 🌐 Connect with Me
 <p align="center">
-    <!-- Facebook -->
-    [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/16A3RiswwP)
-    <!-- LinkedIn -->
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-elsayed-2085a7322?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+    [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ahmedelsayed38)
     &nbsp;&nbsp;
-    <!-- WhatsApp -->
-    [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/ZIGFPTFHFBYYM1)
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-elsayed-2085a7322)
     &nbsp;&nbsp;
-    <!-- Instagram -->
-    [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ahmedelsayed25?utm_source=qr&igsh=MTI3c3Uwc2V1czJvdQ==)
+    [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201091423819)
     &nbsp;&nbsp;
-    <!-- TikTok -->
-    [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@ahmed_el_sayed?_t=ZS-8zfLQseFrap&_r=1)
+    [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ahmedelsayed25)
     &nbsp;&nbsp;
-    <!-- Gmail -->
+    [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@ahmed_el_sayed)
+    &nbsp;&nbsp;
     [![Gmail](https://img.shields.io/badge/Gmail-FF4C4C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedelsayed6179@gmail.com)
 </p>
 
 ---
 
 <p align="center">⭐️ From <a href="https://github.com/AhmedElsayed6179">Ahmed Elsayed</a></p>
+
