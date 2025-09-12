@@ -100,6 +100,11 @@
         <img src="https://img.icons8.com/ios-filled/50/E4405F/instagram-new.png" width="40" style="vertical-align:middle; border:none;" />
     </a>
     &nbsp;&nbsp;
+    <!-- WhatsApp -->
+    <a href ="https://wa.me/qr/ZIGFPTFHFBYYM1" target="_blank" style="text-decoration:none;">
+        <img src="https://img.icons8.com/ios-filled/50/25D366/whatsapp.png" width="40" style="vertical-align:middle; border:none;" />
+    </a>
+    &nbsp;&nbsp;
     <!-- TikTok -->
     <a href="https://www.tiktok.com/@ahmed_el_sayed" target="_blank" style="text-decoration:none;">
         <img src="https://img.icons8.com/ios-filled/50/000000/tiktok--v1.png" width="40" style="vertical-align:middle; border:none;" />
