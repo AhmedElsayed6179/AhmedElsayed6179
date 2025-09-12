@@ -77,7 +77,7 @@
 ---
 
 ## 📌 Featured Projects
-- 🔹 [Azkar Web App](https://ahmedelsayed6179.github.io/Azkar) – **Web App for Islamic Azkar** built with **Java**
+- 🔹 [Azkar Web App](https://ahmedelsayed6179.github.io/Azkar) – **Web App for Islamic Azkar** built with **JavaScript**
 - 🔹 [Store App](https://ahmedelsayed6179.github.io/Store-App) – **Web-based Store Application** built using **HTML, CSS & JavaScript**
 - 🔹 [LinguaHub](https://ahmedelsayed6179.github.io/LinguaHub) – **English Learning Website** built with **HTML, CSS & JavaScript (mostly CSS)**
 
