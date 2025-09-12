@@ -81,16 +81,22 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-    [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ahmedelsayed38)
+    <!-- Facebook -->
+    [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ahmed.elsayed.6179)
     &nbsp;&nbsp;
+    <!-- LinkedIn -->
     [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-elsayed-2085a7322)
     &nbsp;&nbsp;
+    <!-- WhatsApp -->
     [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201091423819)
     &nbsp;&nbsp;
-    [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ahmedelsayed25)
+    <!-- Instagram -->
+    [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ahmedelsayed25/)
     &nbsp;&nbsp;
+    <!-- TikTok -->
     [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@ahmed_el_sayed)
     &nbsp;&nbsp;
+    <!-- Gmail -->
     [![Gmail](https://img.shields.io/badge/Gmail-FF4C4C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedelsayed6179@gmail.com)
 </p>
 
