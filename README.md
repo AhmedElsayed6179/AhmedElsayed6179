@@ -107,6 +107,24 @@
     </a>
 </p>
 
+## 🌐 Connect with Me
+
+<p align="center">
+    <img src="https://img.icons8.com/ios-filled/50/1877F2/facebook.png" width="40" style="margin-right:15px;" />
+    <img src="https://img.icons8.com/ios-filled/50/6C63FF/linkedin.png" width="40" style="margin-right:15px;" />
+    <img src="https://img.icons8.com/ios-filled/50/E4405F/instagram-new.png" width="40" style="margin-right:15px;" />
+    <img src="https://img.icons8.com/ios-filled/50/000000/tiktok--v1.png" width="40" style="margin-right:15px;" />
+    <img src="https://img.icons8.com/ios-filled/50/FF4C4C/gmail.png" width="40" />
+</p>
+
+<p align="center">
+    <a href="https://www.facebook.com/ahmedelsayed38" target="_blank">Facebook</a> &nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/ahmed-elsayed-2085a7322?utm_source=share&utm_campaign=share_via&utm_content=profile" target="_blank">LinkedIn</a> &nbsp;|&nbsp;
+    <a href="https://www.instagram.com/ahmedelsayed25" target="_blank">Instagram</a> &nbsp;|&nbsp;
+    <a href="https://www.tiktok.com/@ahmed_el_sayed" target="_blank">TikTok</a> &nbsp;|&nbsp;
+    <a href="mailto:febrianriski222@gmail.com" target="_blank">Gmail</a>
+</p>
+
 ---
 
 <p align="center">⭐️ From <a href="https://github.com/AhmedElsayed6179">Ahmed Elsayed</a></p>
