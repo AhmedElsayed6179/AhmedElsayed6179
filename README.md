@@ -5,38 +5,36 @@
 </p>
 
 ---
-
 ## 👨‍💻 About Me
 <table>
-    <tr>
-        <td width="60%" valign="top">
+<tr>
+<td width="60%" valign="top">
 
-            - 💻 Front-End Developer passionate about **Web Development**
-            - 🌱 Focused on **HTML, CSS, JavaScript, PHP & MySQL**
-            - ⚡ Enjoy building **responsive and dynamic websites**
-            - 🎯 Goal: Become a **Full-Stack Developer**
+- 💻 Front-End Developer passionate about **Web Development**
+- 🌱 Focused on **HTML, CSS, JavaScript, PHP & MySQL**
+- ⚡ Enjoy building **responsive and dynamic websites**
+- 🎯 Goal: Become a **Full-Stack Developer**
 
-        </td>
-        <td width="40%" align="center">
+</td>
+<td width="40%" align="center">
 
-            <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coding gif" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coding gif"/>
 
-        </td>
-    </tr>
+</td>
+</tr>
 </table>
-
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AhmedElsayed&show_icons=true&theme=tokyonight&hide_border=true"
+    <img src="https://github-readme-stats.vercel.app/api?username=AhmedElsayed6179&show_icons=true&theme=tokyonight&hide_border=true"
         height="165" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedElsayed&theme=tokyonight&hide_border=true"
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedElsayed6179&theme=tokyonight&hide_border=true"
         height="165" />
 </p>
 <p align="center">
     <img
-        src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedElsayed&theme=tokyo-night&hide_border=true" />
+        src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedElsayed6179&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
