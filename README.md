@@ -31,13 +31,13 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-    <img src="https://github-readme-stats-two-omega-85.vercel.app/api?username=AhmedElsayed6179&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-    <img src="https://streak-stats.demolab.com?user=AhmedElsayed6179&theme=tokyonight&hide_border=true" height="165" />
+    <img src="https://github-readme-stats-navy-nine-18.vercel.app/api?username=AhmedElsayed6179&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-    <img src="https://github-readme-activity-graph-woad-kappa.vercel.app/graph?username=AhmedElsayed6179&theme=tokyo-night&hide_border=true" />
+    <img src="https://github-readme-activity-graph-five-blush.vercel.app/graph?username=AhmedElsayed6179&theme=tokyo-night&hide_border=true" />
 </p>
+
 
 ---
 
