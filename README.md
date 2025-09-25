@@ -55,7 +55,7 @@
 
 ## 🎨 Other Skills
 <p align="center">
-    <img src="https://img.shields.io/badge/Responsive%20Design-F24E1E?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Responsive%20Design-F24E1E?style=for-the-badge&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/Technical%20Writing-007ACC?style=for-the-badge&logo=markdown&logoColor=white" />
 </p>
