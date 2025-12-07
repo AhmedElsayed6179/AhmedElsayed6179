@@ -49,6 +49,7 @@
     <img src="https://img.shields.io/badge/PHP-6C63FF?style=for-the-badge&logo=php&logoColor=white" />
     <img src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 </p>
 
 ---
