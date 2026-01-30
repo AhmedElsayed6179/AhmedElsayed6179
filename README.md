@@ -87,7 +87,7 @@
     </a>
     &nbsp;&nbsp;
     <!-- LinkedIn -->
-    <a href="https://www.linkedin.com/in/ahmed-elsayed-2085a7322?utm_source=share&utm_campaign=share_via&utm_content=profile" target="_blank" style="text-decoration:none;">
+    <a href="https://www.linkedin.com/in/ahmed-mohamed-2085a7322" target="_blank" style="text-decoration:none;">
         <img src="https://img.icons8.com/ios-filled/50/6C63FF/linkedin.png" width="40" style="vertical-align:middle; border:none;" />
     </a>
     &nbsp;&nbsp;
