@@ -1,7 +1,7 @@
 <!-- Header dengan animasi typing -->
 <p align="center">
     <img
-        src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00E0FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Ahmed+Mohamed+Elsayed!;Front-End+Developer;Web+Development;HTML+|+CSS+|+JavaScript+|+PHP+|+MySQL;TypeScript+|+Sass+|+Bootstrap;Angular+|+React;Always+Learning+New+Things!" />
+        src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00E0FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Ahmed+Mohamed!;Front-End+Developer;Web+Development;HTML+|+CSS+|+JavaScript+|+PHP+|+MySQL;TypeScript+|+Sass+|+Bootstrap;Angular+|+React;Always+Learning+New+Things!" />
 </p>
 
 ---
@@ -126,5 +126,5 @@
 
 ---
 
-<p align="center">⭐️ From <a href="https://ahmedelsayed6179.github.io/Ahmed-Websites/" target="_blank">Ahmed Elsayed</a></p>
+<p align="center">⭐️ From <a href="https://ahmedelsayed6179.github.io/Ahmed-Websites/" target="_blank">Ahmed Mohamed</a></p>
 
