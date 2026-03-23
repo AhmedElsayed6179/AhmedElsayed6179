@@ -94,10 +94,6 @@
 ## 🌐 Connect with Me
 <!-- Social & Portfolio Icons -->
 <p align="center" style="margin: 20px 0; display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-    <!-- Portfolio -->
-    <a href="https://thisisahmedmohamed.netlify.app" target="_blank" style="text-decoration:none;">
-        <img src="https://img.icons8.com/ios-filled/50/1877F2/briefcase.png" width="40" alt="Portfolio" />
-    </a>
     <!-- Facebook -->
     <a href="https://www.facebook.com/ahmedelsayed38" target="_blank" style="text-decoration:none;">
         <img src="https://img.icons8.com/ios-filled/50/1877F2/facebook.png" width="40" alt="Facebook" />
@@ -121,6 +117,10 @@
     <!-- Gmail -->
     <a href="mailto:ahmedelsayed6179@gmail.com" target="_blank" style="text-decoration:none;">
         <img src="https://img.icons8.com/ios-filled/50/FF4C4C/gmail.png" width="40" alt="Gmail" />
+    </a>
+    <!-- Portfolio -->
+    <a href="https://thisisahmedmohamed.netlify.app" target="_blank" style="text-decoration:none;">
+        <img src="https://img.icons8.com/ios-filled/50/1877F2/briefcase.png" width="40" alt="Portfolio" />
     </a>
 </p>
 
