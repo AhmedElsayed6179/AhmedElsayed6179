@@ -1,7 +1,7 @@
 <!-- Header dengan animasi typing -->
 <p align="center">
     <img
-        src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00E0FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Ahmed+Mohamed+Elsayed!;Front-End+Developer;Web+Development;HTML+|+CSS+|+JavaScript+|+PHP+|+MySQL;React+|+Angular;Always+Learning+New+Things!" />
+        src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00E0FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Ahmed+Mohamed+Elsayed!;Front-End+Developer;Web+Development;HTML+|+CSS+|+JavaScript+|+PHP+|+MySQL;TypeScript+|+Sass+|+Bootstrap;Angular+|+React;Always+Learning+New+Things!" />
 </p>
 
 ---
@@ -30,6 +30,9 @@
 ---
 
 ## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedElsayed6179&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedElsayed6179&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedElsayed6179&theme=tokyo-night&hide_border=true"/>
@@ -46,6 +49,7 @@
     <img src="https://img.shields.io/badge/PHP-6C63FF?style=for-the-badge&logo=php&logoColor=white" />
     <img src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
     <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 </p>
 
@@ -73,14 +77,28 @@
 ---
 
 ## 📌 Featured Projects
-- 🔹 [Azkar Web App](https://ahmedelsayed6179.github.io/Azkar) – **Web App for Islamic Azkar** built with **JavaScript**
-- 🔹 [Store App](https://ahmedelsayed6179.github.io/Store-App) – **Web-based Store Application** built using **HTML, CSS & JavaScript**
-- 🔹 [LinguaHub](https://ahmedelsayed6179.github.io/LinguaHub) – **English Learning Website** built with **HTML, CSS & JavaScript (mostly CSS)**
+- 🔹 [SayHello](https://sayhello.up.railway.app) – **Web App** for browsing **Islamic Azkar** with a simple and clean interface.
+
+- 🔹 [Trainova](https://trainova.up.railway.app) – **Training platform** showcasing **courses and learning content** in a modern layout.
+
+- 🔹 [MarketHub](https://markethub.up.railway.app) – **E-commerce style** marketplace demonstrating **product browsing** and responsive UI.
+
+- 🔹 [CartApp](https://cart-app-pro.netlify.app) – **Shopping cart app** with **product display** and basic **e-commerce functionality**.
+
+- 🔹 [Coffee Cups](https://coffee-cups.page.gd) – **Coffee shop landing page** showcasing **drinks and products** with clean design.
+
+- 🔹 [Academy System](https://academy-system.page.gd) – **Educational website** presenting **courses and academic info** in an organized interface.
 
 ---
 
 ## 🌐 Connect with Me
 <p align="center" style="text-decoration:none;">
+    <!-- Portfolio -->
+    <a href="https://thisisahmedmohamed.netlify.app" target="_blank" style="text-decoration:none;">
+    <img src="https://img.icons8.com/ios-filled/50/000000/briefcase.png"
+         width="40"
+         style="vertical-align:middle; border:none;" />
+    </a>
     <!-- Facebook -->
     <a href="https://www.facebook.com/ahmedelsayed38" target="_blank" style="text-decoration:none;">
         <img src="https://img.icons8.com/ios-filled/50/1877F2/facebook.png" width="40" style="vertical-align:middle; border:none;" />
