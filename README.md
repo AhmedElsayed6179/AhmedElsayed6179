@@ -92,42 +92,35 @@
 ---
 
 ## 🌐 Connect with Me
-<p align="center" style="text-decoration:none;">
+<!-- Social & Portfolio Icons -->
+<p align="center" style="margin: 20px 0; display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
     <!-- Portfolio -->
     <a href="https://thisisahmedmohamed.netlify.app" target="_blank" style="text-decoration:none;">
-        <img src="https://img.icons8.com/ios-filled/50/1877F2/briefcase.png"
-             width="40"
-             alt="Portfolio"
-             style="vertical-align:middle; border:none;" />
+        <img src="https://img.icons8.com/ios-filled/50/1877F2/briefcase.png" width="40" alt="Portfolio" />
     </a>
     <!-- Facebook -->
     <a href="https://www.facebook.com/ahmedelsayed38" target="_blank" style="text-decoration:none;">
-        <img src="https://img.icons8.com/ios-filled/50/1877F2/facebook.png" width="40" style="vertical-align:middle; border:none;" />
+        <img src="https://img.icons8.com/ios-filled/50/1877F2/facebook.png" width="40" alt="Facebook" />
     </a>
-    &nbsp;&nbsp;
     <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/ahmed-mohamed-27ba03219" target="_blank" style="text-decoration:none;">
-        <img src="https://img.icons8.com/ios-filled/50/6C63FF/linkedin.png" width="40" style="vertical-align:middle; border:none;" />
+        <img src="https://img.icons8.com/ios-filled/50/6C63FF/linkedin.png" width="40" alt="LinkedIn" />
     </a>
-    &nbsp;&nbsp;
     <!-- Instagram -->
     <a href="https://www.instagram.com/ahmedelsayed25" target="_blank" style="text-decoration:none;">
-        <img src="https://img.icons8.com/ios-filled/50/E4405F/instagram-new.png" width="40" style="vertical-align:middle; border:none;" />
+        <img src="https://img.icons8.com/ios-filled/50/E4405F/instagram-new.png" width="40" alt="Instagram" />
     </a>
-    &nbsp;&nbsp;
     <!-- WhatsApp -->
-    <a href ="https://wa.me/qr/ZIGFPTFHFBYYM1" target="_blank" style="text-decoration:none;">
-        <img src="https://img.icons8.com/ios-filled/50/25D366/whatsapp.png" width="40" style="vertical-align:middle; border:none;" />
+    <a href="https://wa.me/qr/ZIGFPTFHFBYYM1" target="_blank" style="text-decoration:none;">
+        <img src="https://img.icons8.com/ios-filled/50/25D366/whatsapp.png" width="40" alt="WhatsApp" />
     </a>
-    &nbsp;&nbsp;
     <!-- TikTok -->
     <a href="https://www.tiktok.com/@ahmed_el_sayed" target="_blank" style="text-decoration:none;">
-        <img src="https://img.icons8.com/ios-filled/50/69C9D0/tiktok--v1.png" width="40" style="vertical-align:middle; border:none;" />
+        <img src="https://img.icons8.com/ios-filled/50/69C9D0/tiktok--v1.png" width="40" alt="TikTok" />
     </a>
-    &nbsp;&nbsp;
     <!-- Gmail -->
     <a href="mailto:ahmedelsayed6179@gmail.com" target="_blank" style="text-decoration:none;">
-        <img src="https://img.icons8.com/ios-filled/50/FF4C4C/gmail.png" width="40" style="vertical-align:middle; border:none;" />
+        <img src="https://img.icons8.com/ios-filled/50/FF4C4C/gmail.png" width="40" alt="Gmail" />
     </a>
 </p>
 
