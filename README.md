@@ -13,8 +13,8 @@
 
 - 🎓 Enthusiast in **Informatics & Web Development**
 - 💻 Front-End Developer passionate about **Web Development**
-- 🌱 Currently focusing on **HTML, CSS, JavaScript, PHP, MySQL**
-- ⚡ Enjoy building **responsive and dynamic websites** from scratch
+- 🌱 Currently expanding my skills in **HTML, CSS, JavaScript, TypeScript, React, Angular, PHP, and MySQL**, building modern web applications and responsive interfaces.
+- - ⚡ Enjoy building **responsive and dynamic websites** from scratch
 - 🎯 Goal: Become a **Full-Stack Developer**
  
 
