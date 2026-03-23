@@ -95,9 +95,10 @@
 <p align="center" style="text-decoration:none;">
     <!-- Portfolio -->
     <a href="https://thisisahmedmohamed.netlify.app" target="_blank" style="text-decoration:none;">
-    <img src="https://img.icons8.com/ios-filled/50/000000/briefcase.png"
-         width="40"
-         style="vertical-align:middle; border:none;" />
+        <img src="https://img.icons8.com/ios-filled/50/1877F2/briefcase.png"
+             width="40"
+             alt="Portfolio"
+             style="vertical-align:middle; border:none;" />
     </a>
     <!-- Facebook -->
     <a href="https://www.facebook.com/ahmedelsayed38" target="_blank" style="text-decoration:none;">
@@ -121,7 +122,7 @@
     &nbsp;&nbsp;
     <!-- TikTok -->
     <a href="https://www.tiktok.com/@ahmed_el_sayed" target="_blank" style="text-decoration:none;">
-        <img src="https://img.icons8.com/ios-filled/50/000000/tiktok--v1.png" width="40" style="vertical-align:middle; border:none;" />
+        <img src="https://img.icons8.com/ios-filled/50/69C9D0/tiktok--v1.png" width="40" style="vertical-align:middle; border:none;" />
     </a>
     &nbsp;&nbsp;
     <!-- Gmail -->
