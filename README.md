@@ -12,9 +12,9 @@
 <td width="60%" valign="top">
 
 - 🎓 Enthusiast in **Informatics & Web Development**
-- 💻 Front-End Developer passionate about **Web Development**
-- 🌱 Currently expanding my skills in **HTML, CSS, JavaScript, TypeScript, React, Angular, PHP, and MySQL**, building modern web applications and responsive interfaces.
-- - ⚡ Enjoy building **responsive and dynamic websites** from scratch
+- 💻 Front-End Developer passionate about **building interactive web applications**
+- 🌱 Currently expanding my skills in **HTML, CSS, JavaScript, TypeScript, React, Angular, PHP, and MySQL**, focusing on modern web apps and responsive interfaces
+- ⚡ Enjoy creating **responsive and dynamic websites** from scratch
 - 🎯 Goal: Become a **Full-Stack Developer**
  
 
