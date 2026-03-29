@@ -83,7 +83,7 @@
 
 - 🔹 [MarketHub](https://markethub.up.railway.app) – **E-commerce style** marketplace demonstrating **product browsing** and responsive UI.
 
-- 🔹 [CartApp](https://cart-app-pro.netlify.app) – **Shopping cart app** with **product display** and basic **e-commerce functionality**.
+- 🔹 [CartApp](https://cart-bsc.netlify.app) – **Shopping cart app** with **product display** and basic **e-commerce functionality**.
 
 - 🔹 [Coffee Cups](https://coffee-cups.page.gd) – **Coffee shop landing page** showcasing **drinks and products** with clean design.
 
