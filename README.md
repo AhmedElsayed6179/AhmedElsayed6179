@@ -88,6 +88,8 @@
 - 🔹 [Coffee Cups](https://coffee-cups.page.gd) – **Coffee shop landing page** showcasing **drinks and products** with clean design.
 
 - 🔹 [Academy System](https://academy-system.page.gd) – **Educational website** presenting **courses and academic info** in an organized interface.
+  
+- 🔹 [Azkar](https://azkar-daily.netlify.app) – A daily **dhikr** companion — authentic **adhkar** from the Sunnah of the **Prophet ﷺ**.
 
 ---
 
