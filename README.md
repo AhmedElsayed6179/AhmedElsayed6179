@@ -121,7 +121,7 @@
         <img src="https://img.icons8.com/ios-filled/50/FF4C4C/gmail.png" width="40" alt="Gmail" />
     </a>
     <!-- Portfolio -->
-    <a href="https://thisisahmedmohamed.netlify.app" target="_blank" style="text-decoration:none;">
+    <a href="https://iamahmedmohamed.netlify.app" target="_blank" style="text-decoration:none;">
         <img src="https://img.icons8.com/ios-filled/50/1877F2/briefcase.png" width="40" alt="Portfolio" />
     </a>
 </p>
