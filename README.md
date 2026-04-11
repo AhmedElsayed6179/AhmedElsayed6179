@@ -83,13 +83,13 @@
 
 - 🔹 [MarketHub](https://markethub.up.railway.app) – **E-commerce style** marketplace demonstrating **product browsing** and responsive UI.
 
-- 🔹 [CartApp](https://cart-bsc.netlify.app) – **Shopping cart app** with **product display** and basic **e-commerce functionality**.
+- 🔹 [CartApp](https://cartapp-bsc.netlify.app) – **Shopping cart app** with **product display** and basic **e-commerce functionality**.
 
 - 🔹 [Coffee Cups](https://coffee-cups.page.gd) – **Coffee shop landing page** showcasing **drinks and products** with clean design.
 
 - 🔹 [Academy System](https://academy-system.page.gd) – **Educational website** presenting **courses and academic info** in an organized interface.
   
-- 🔹 [Azkar](https://azkar-daily.netlify.app) – A daily **dhikr** companion — authentic **adhkar** from the Sunnah of the **Prophet ﷺ**.
+- 🔹 [Azkar](https://azkar-reading.netlify.app) – A daily **dhikr** companion — authentic **adhkar** from the Sunnah of the **Prophet ﷺ**.
 
 ---
 
@@ -121,7 +121,7 @@
         <img src="https://img.icons8.com/ios-filled/50/FF4C4C/gmail.png" width="40" alt="Gmail" />
     </a>
     <!-- Portfolio -->
-    <a href="https://iamahmedmohamed.netlify.app" target="_blank" style="text-decoration:none;">
+    <a href="https://iamahmedmohamedelsayed.netlify.app" target="_blank" style="text-decoration:none;">
         <img src="https://img.icons8.com/ios-filled/50/1877F2/briefcase.png" width="40" alt="Portfolio" />
     </a>
 </p>
